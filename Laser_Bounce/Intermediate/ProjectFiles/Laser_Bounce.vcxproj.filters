@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Laser_Bounce.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CA899F3D-76D1-4DCA-B86B-49D02FD8D6EC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Laser_Bounce.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Laser_BounceEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{63489908-8010-4BF3-B4AA-6A3B481FB122}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Laser_Bounce">
+      <UniqueIdentifier>{7DEC65D9-3403-440D-BD76-37E510BF0420}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Laser_Bounce\Laser_Bounce.Build.cs">
+      <Filter>Source\Laser_Bounce</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Laser_Bounce\Laser_Bounce.cpp">
+      <Filter>Source\Laser_Bounce</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Laser_Bounce\Laser_Bounce.h">
+      <Filter>Source\Laser_Bounce</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Laser_Bounce\Laser_BounceCharacter.cpp">
+      <Filter>Source\Laser_Bounce</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Laser_Bounce\Laser_BounceCharacter.h">
+      <Filter>Source\Laser_Bounce</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Laser_Bounce\Laser_BounceGameMode.cpp">
+      <Filter>Source\Laser_Bounce</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Laser_Bounce\Laser_BounceGameMode.h">
+      <Filter>Source\Laser_Bounce</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Laser_Bounce\Laser_BounceHUD.cpp">
+      <Filter>Source\Laser_Bounce</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Laser_Bounce\Laser_BounceHUD.h">
+      <Filter>Source\Laser_Bounce</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Laser_Bounce\Laser_BounceProjectile.cpp">
+      <Filter>Source\Laser_Bounce</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Laser_Bounce\Laser_BounceProjectile.h">
+      <Filter>Source\Laser_Bounce</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

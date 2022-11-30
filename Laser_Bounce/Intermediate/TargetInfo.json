@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Laser_Bounce",
+			"Path": "C:\\Users\\garre\\OneDrive\\Documents\\Laser_Bounce\\Laser_Bounce\\Source\\Laser_Bounce.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Laser_BounceEditor",
+			"Path": "C:\\Users\\garre\\OneDrive\\Documents\\Laser_Bounce\\Laser_Bounce\\Source\\Laser_BounceEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
